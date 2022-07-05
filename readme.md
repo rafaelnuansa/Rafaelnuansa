@@ -82,7 +82,7 @@
 
 <div align="center">
 
-### Aku ❤️ Syarofina!
+### I ❤️ Syarofina!
 
 </div>
 
