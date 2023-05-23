@@ -57,6 +57,14 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rafaelnuansa/rafaelnuansa?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
+	       <tr>
+	      <td><a href="https://github.com/rafaelnuansa/bogor-berwisata"><b>Bogor Berwisata</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rafaelnuansa/bogor-berwisata?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rafaelnuansa/bogor-berwisata?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rafaelnuansa/bogor-berwisata?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rafaelnuansa/bogor-berwisata?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
     </tbody>
   </table>
   <br />
