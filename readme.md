@@ -15,60 +15,6 @@
 
 <a href="https://trakteer.id/rafaelnuansa/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-2.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
-
-
-<details>
-  <summary><b>🧑‍🚀 Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/rafaelnuansa/calculator"><b>🚀 Calculator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rafaelnuansa/calculator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rafaelnuansa/calculator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rafaelnuansa/calculator?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rafaelnuansa/calculator?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rafaelnuansa/calculator?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/rafaelnuansa/kertas-gunting-batu-php"><b>💸 Kertas Gunting Batu</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rafaelnuansa/kertas-gunting-batu-php?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rafaelnuansa/kertas-gunting-batu-php?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rafaelnuansa/kertas-gunting-batu-php?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rafaelnuansa/kertas-gunting-batu-php?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rafaelnuansa/kertas-gunting-batu-php?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/rafaelnuansa/rafaelnuansa"><b>🤓 rafaelnuansa</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rafaelnuansa/rafaelnuansa?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rafaelnuansa/rafaelnuansa?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rafaelnuansa/rafaelnuansa?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rafaelnuansa/rafaelnuansa?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-	       <tr>
-	      <td><a href="https://github.com/rafaelnuansa/bogorberwisata"><b>Bogor Berwisata</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rafaelnuansa/bogor-berwisata?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rafaelnuansa/bogor-berwisata?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rafaelnuansa/bogor-berwisata?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rafaelnuansa/bogor-berwisata?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
  
 <details>	
   <br />
