@@ -1,6 +1,1 @@
-
-
-<div align="center">
-### I ❤️ Programming!
-</div>
-
+“Everyone will face death someday. But the beliefs they hold will never fade as long as someone protects them. Once you are determined to uphold those principles, no matter how much blood and tears you shed, you will stand by them! That is the meaning of being a knight.”
