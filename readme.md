@@ -58,16 +58,10 @@ Hi! I’m **Rafael Nuansa**, a passionate **Web Developer** who loves building a
 ### 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelnuansa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" />
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnuansa&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnuansa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-</p>
 
 <p align="center">
   <!-- Github Trophies -->
