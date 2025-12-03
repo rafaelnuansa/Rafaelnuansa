@@ -1,6 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3F8BFF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Rafael+Nuansa;Web+Developer+%26+Tech+Enthusiast;Let's+Build+Something+Great!+🚀" alt="Typing SVG" />
+  <a href="https://github.com/rafaelnuansa">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=38F7AE&center=true&vCenter=true&width=750&lines=Rafael+Nuansa;Fullstack+Web+Developer;Let's+Build+Something+Great!+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-%F0%9F%92%BB-blue?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-%F0%9F%94%A5-purple?style=for-the-badge&color=7A3EFF">
 </p>
 
 ---
@@ -41,8 +49,7 @@ Hi! I’m **Rafael Nuansa**, a passionate **Web Developer** who loves building a
 | Project | Stack | Description |
 |--------|------|-------------|
 | 🏦 HRIS System | Laravel, MySQL | HR platform with payroll, KPI, promotion & position mutation |
-| 🎗️ Donation Dashboard | Laravel, AdminLTE | Analytics dashboard with filtering & export features |
-| 📱 Gallery Upload API | Flutter, Dio | Upload gallery images to API with async background process |
+| 🎗️ Donation Dashboard | Laravel | Analytics dashboard with filtering & export features |
 
 > 🌟 More exciting projects are in progress…
 
@@ -60,9 +67,10 @@ Hi! I’m **Rafael Nuansa**, a passionate **Web Developer** who loves building a
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/rafaelnuansi"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="https://github.com/rafaelnuansa"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
   <a href="mailto:email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <!-- Add LinkedIn / Portfolio if available -->
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://instagram.com/yourinstagram"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
 </p>
 
 ---
